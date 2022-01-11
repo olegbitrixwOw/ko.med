@@ -1,0 +1,1 @@
+	<img width="100%" src="<?=SITE_DIR?>about/raspisanie/raspisanie.png">

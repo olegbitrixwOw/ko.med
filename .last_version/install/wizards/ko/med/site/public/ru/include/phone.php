@@ -1,0 +1,1 @@
+<i class="fa fa-mobile" aria-hidden="true"></i><a href="skype:88001234556">8 (800) 123-45-56 </a><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:medicine@yandex.ru">medicine@yandex.ru</a>
